@@ -1,0 +1,14 @@
+Material,Density_g_cm3,YoungsModulus_GPa,YieldStrength_MPa,MaxServiceTemp_C,ThermalConductivity_W_mK,Category
+Aluminum_6061,2.70,69,276,150,167,Metal
+Aluminum_7075,2.81,71,503,100,130,Metal
+Titanium_Ti6Al4V,4.43,114,880,315,6.7,Metal
+Steel_4340,7.85,205,710,425,44.5,Metal
+Inconel_718,8.19,200,1035,650,11.4,Superalloy
+Rene_N5,8.56,205,900,1100,11,Superalloy
+CarbonFiber_Epoxy_0deg,1.58,150,1500,180,1.5,Composite
+CarbonFiber_Epoxy_quasi,1.58,70,600,180,1.5,Composite
+SiC_SiliconCarbide,3.21,450,3440,1650,120,Ceramic
+Alumina_Al2O3,3.95,300,300,1750,35,Ceramic
+ZrB2_UHTC,5.40,540,450,2200,80,Ceramic
+Glass_Epoxy,1.85,45,90,120,0.3,Composite
+Beryllium,1.85,287,240,500,200,Metal
