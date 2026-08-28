@@ -2,8 +2,10 @@
 ### Mission-Driven Ashby Plot Generator
 
 A Python-based computational materials selection tool for aerospace 
-component design. Generates Ashby plots — the industry-standard method 
+component design. Generates Ashby plots - the industry-standard method 
 used by Boeing, Rolls-Royce, and NASA for preliminary materials selection.
+
+A big thank you to AI for the help with outlines, formatting and structures!
 
 ---
 
@@ -76,7 +78,7 @@ This methodology was validated against the author's own failure data:
 a water rocket pressure vessel burst at ~30 psi due to thin-walled PET 
 exceeding hoop stress limits. The same selection framework correctly 
 predicts that a thicker-walled uniform vessel (Aquafina, t = 0.6 mm) 
-survives &gt;80 psi — consistent with hand calculations and FEA results.
+survives &gt;80 psi - consistent with hand calculations and FEA results.
 
 ---
 
